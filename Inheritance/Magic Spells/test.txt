@@ -1,0 +1,10 @@
+test input:
+3
+fire 5
+AquaVitae 999 AruTaVae
+frost 7
+
+text output:
+Fireball: 5
+6
+Frostbite: 7
