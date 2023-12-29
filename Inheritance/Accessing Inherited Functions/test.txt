@@ -1,0 +1,7 @@
+test input:
+30
+
+test output:
+A's func will be called once.
+B's func will be called once.
+C's func will be called once.

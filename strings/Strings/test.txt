@@ -1,0 +1,8 @@
+test input: 
+abcd
+ef
+
+test output:
+4 2
+abcdef
+ebcd af
