@@ -1,0 +1,8 @@
+test input:
+15
+john
+carmack
+10
+
+test output:
+15 john carmack 10
