@@ -18,5 +18,5 @@ To run the solution, navigate to the problem directory and compile the .cpp file
 Feel free to submit a pull request if you find any errors or have alternative solutions.
 
 ## License
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](LICENSE)
 
